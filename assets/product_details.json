@@ -1,0 +1,97 @@
+{
+	"count": 2,
+	"herbs_seasonings": [
+		{
+			"product_count": 1,
+			"product_name": "Fresh Basil",
+			"image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/fresh-basil-leafs-mr3mzw4-600.jpg",
+			"price": "50$/50 Gram",
+			"initial_weight": "50 Gram",
+			"initial_quantity": 1,
+			"product_description": "Basil is an annual herbaceous plant in the mint family Lamiaceae. It has square stems with leaves that grow on opposite sides, and the leaves are rounded, slightly cupped, and curve to form at point at the tip. The leaves are generally light green, although some varieties have reddish or purplish leaves. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 2,
+			"product_name": "Fresh Mint",
+			"image_url": "https://w7.pngwing.com/pngs/807/932/png-transparent-mint-leaves-mint-leaves-image-mint-mint-leaves-thumbnail.png",
+			"price": "50$/50 Gram",
+			"initial_weight": "50 Gram",
+			"initial_quantity": 1,
+			"product_description": "Mint can be used fresh or dried in both sweet and savory dishes. Some ways to use mint include infusing syrups, blending into cocktails, yogurt, whipped creams, and sorbet.Mint may have several potential health benefits, including digestive health and allergies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 3,
+			"product_name": "Fresh Marjoram",
+			"image_url": "https://w7.pngwing.com/pngs/119/185/png-transparent-green-leafed-plant-oregano-marjoram-tea-carvacrol-food-oregano-leaf-oil-thyme-thumbnail.png",
+			"price": "50$/50 Gram",
+			"initial_weight": "50 Gram",
+			"initial_quantity": 1,
+			"product_description": "Marjoram, (Origanum majorana), perennial plant of the mint family (Lamiaceae), grown as a culinary herb. Its fresh or dried leaves and flowering tops are used to season many foods, imparting a warm, aromatic, slightly sharp, and bitterish flavour. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 4,
+			"product_name": "Fresh Rosemary",
+			"image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/fresh-rosemary-mr1zGXE-600.jpg",
+			"price": "50$/50 Gram",
+			"initial_weight": "50 Gram",
+			"initial_quantity": 1,
+			"product_description": "Rosemary is a fragrant, evergreen shrub with needle-like leaves and small flowers. The leaves are dark green on top and pale on the bottom, and the flowers are usually pale blue, pink, or white. Rosemary is used in cooking, and its essential oil gives it its characteristic scent. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 5,
+			"product_name": "Fresh Bay Leaf",
+			"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtnECQf11PDv1kiusgJnzYDW7_TbMPWoVGA&s",
+			"price": "50$/50 Gram",
+			"initial_weight": "50 Gram",
+			"initial_quantity": 1,
+			"product_description": "Bay leaf, leaf of the sweet bay tree (Laurus nobilis), an evergreen of the family Lauraceae, indigenous to countries bordering the Mediterranean. A popular spice used in pickling and marinating and to flavour stews, stuffings, and fish, bay leaves are delicately fragrant but have a bitter taste. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		}
+	],
+	"fresh_fruits": [
+		{
+			"product_count": 1,
+			"product_name": "Watermelon",
+			"image_url": "https://static.vecteezy.com/system/resources/previews/029/200/375/original/watermelon-transparent-background-free-png.png",
+			"price": "50$/1 Kilo Gram",
+			"initial_weight": "1 Kilo Gram",
+			"initial_quantity": 1,
+			"product_description": "Watermelon, (Citrullus lanatus), succulent fruit and vinelike plant of the gourd family (Cucurbitaceae), native to tropical Africa and cultivated around the world. The fruit contains vitamin A and some vitamin C and is usually eaten raw. The rind is sometimes preserved as a pickle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 2,
+			"product_name": "Grapes",
+			"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgd6OSjNGkDl6KnVLfZSfCA0Vn6Lgv8JGNw&s",
+			"price": "50$/1 Kilo Gram",
+			"initial_weight": "1 Kilo Gram",
+			"initial_quantity": 1,
+			"product_description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters. The cultivation of grapes began approximately 8,000 years ago, and the fruit has been used as human food throughout its history. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 3,
+			"product_name": "Oranges",
+			"image_url": "https://i.pinimg.com/736x/05/79/5a/05795a16b647118ffb6629390e995adb.jpg",
+			"price": "50$/1 Kilo Gram",
+			"initial_weight": "1 Kilo Gram",
+			"initial_quantity": 1,
+			"product_description": "Oranges are round, orange-coloured fruit that grow on a tree which can reach 10 metres (33 ft) high. Orange trees have dark green shiny leaves and small white flowers with five petals. The flowers smell very sweet which attracts many bees. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 4,
+			"product_name": "Peaches",
+			"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBNleUlQ-Y-zNQnflw8JscIpT1g10RuSUcA&s",
+			"price": "50$/1 Kilo Gram",
+			"initial_weight": "1 Kilo Gram",
+			"initial_quantity": 1,
+			"product_description": "A peach is a very sweet, juicy fruit with an edible peel and a hard pit in the middle. Peaches vary in color from almost white to yellow and pinkish-red. Peaches grow on trees in temperate climates — they need warm weather, but they also require a hard freeze in the winter to produce fruit. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		},
+		{
+			"product_count": 5,
+			"product_name": "Apples",
+			"image_url": "https://static.vecteezy.com/system/resources/previews/009/887/176/non_2x/red-apples-free-png.png",
+			"price": "50$/1 Kilo Gram",
+			"initial_weight": "1 Kilo Gram",
+			"initial_quantity": 1,
+			"product_description": "The apple is one of the pome (fleshy) fruits. Apples at harvest vary widely in size, shape, colour, and acidity, but most are fairly round and some shade of red or yellow. The thousands of varieties fall into three broad classes: cider, cooking, and dessert varieties. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		}
+	]
+}
